@@ -1,0 +1,10 @@
+X:\ProjectsC#\Some Game\Some Game\bin\Debug\Some Game.exe.config
+X:\ProjectsC#\Some Game\Some Game\bin\Debug\Some Game.exe
+X:\ProjectsC#\Some Game\Some Game\bin\Debug\Some Game.pdb
+X:\ProjectsC#\Some Game\Some Game\obj\Debug\RateCurrency.csprojAssemblyReference.cache
+X:\ProjectsC#\Some Game\Some Game\obj\Debug\Some_Game.Rate.resources
+X:\ProjectsC#\Some Game\Some Game\obj\Debug\Some_Game.Properties.Resources.resources
+X:\ProjectsC#\Some Game\Some Game\obj\Debug\RateCurrency.csproj.GenerateResource.cache
+X:\ProjectsC#\Some Game\Some Game\obj\Debug\RateCurrency.csproj.CoreCompileInputs.cache
+X:\ProjectsC#\Some Game\Some Game\obj\Debug\Some Game.exe
+X:\ProjectsC#\Some Game\Some Game\obj\Debug\Some Game.pdb
