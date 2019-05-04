@@ -55,6 +55,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RateExchange.cs" />
+    <Compile Include="Weather.cs" />
     <EmbeddedResource Include="Rate.resx">
       <DependentUpon>Rate.cs</DependentUpon>
     </EmbeddedResource>
@@ -79,9 +80,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="PB.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
